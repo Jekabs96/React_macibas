@@ -1,35 +1,3 @@
-# Sagatavošanās
-- **Node**  https://nodejs.org/en/download (JavaScript runtime environment)
-- **React Developer Tools** https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
-- **Aplikācijas izveide** -  https://create-react-app.dev/
-- Klonējot repozitoriju - npm install
-
-# Teorija
-- https://www.geeksforgeeks.org/what-are-the-differences-between-npm-and-npx/
-- https://react.dev/reference/react-dom/client/createRoot
-- https://react.dev/reference/react-dom/client
-- https://react.dev/learn/writing-markup-with-jsx
-- https://react.dev/learn/javascript-in-jsx-with-curly-braces
-- https://react.dev/learn/your-first-component
-- https://react.dev/learn/passing-props-to-a-component
-- https://react.dev/learn/render-and-commit
-- https://react.dev/reference/react/StrictMode
-- https://www.w3schools.com/REACT/DEFAULT.ASP
-- https://www.codecademy.com/learn/react-101
-- https://www.freecodecamp.org/news/react-fundamentals-for-beginners/
-- https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing Client-side_JavaScript_frameworks/React_getting_started
-- https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
-- https://egghead.io/courses/the-beginner-s-guide-to-react
-- https://www.geeksforgeeks.org/getting-started-with-reactjs-a-complete-guide-for-beginners/
-
-# Uzdevumi 
-- Izveidot componenti AddTask un ielikt tur kodu no esošā form iekš App.js.
-- Pievienot iespēju atzīmēt uzdevumu kā svarīgu (ar pogas klikšķi nomainīt stilu). 
-- Pievienot iespēju meklēt uzdevumus. 
-- Pievienot loģiku, lai izveidotu post requests uz "https://dummyjson.com/todos/add".
-- Pēc paraga izveidot līdzīgu aplikāciju par tēmu - blogs
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
